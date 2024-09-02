@@ -1,0 +1,8 @@
+/* src/components/AppName.Module.css */
+.todoHeading {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
